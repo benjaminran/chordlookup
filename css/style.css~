@@ -1,0 +1,15 @@
+/* Include your CSS rules here */
+body {
+	margin: 0px;
+}
+
+#notification-bar {
+	width: 100%;
+	text-align: center;
+}
+
+iframe {
+	width: 100%;
+	height: auto;
+	min-height: 96%;
+}

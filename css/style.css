@@ -1,0 +1,23 @@
+/* Include your CSS rules here */
+html, body {
+	margin: 0px;
+	overflow: hidden;
+}
+
+#notification-bar {
+	width: 100%;
+	height: 3%;
+	padding: 0 1%;
+	text-align: center;
+}
+
+#container {
+	height: 95%;
+	overflow-x: hidden;
+}
+
+iframe {
+	width: 100%;
+	min-height: 100%%;
+	overflow-x: hidden;
+}
